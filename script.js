@@ -12,7 +12,7 @@ const VEHICLE_PRICES = {
 const ADDON_PRICES = {
   'shampoo-sedan': 50,     // Seat Shampooing
   'headlight': 50,         // Headlight Restoration
-  'engine': 25,            // Engine Bay Cleaning
+  'engine': 50,            // Engine Bay Cleaning
   'plastics': 25           // Plastic Trim Shine
 };
 
